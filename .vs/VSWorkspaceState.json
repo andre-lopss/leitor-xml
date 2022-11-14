@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\TesteXML",
+    "\\TesteXML\\img",
     "\\TesteXML\\Properties",
     "\\TesteXML\\xml"
   ],
+  "SelectedNode": "\\TesteXML\\Form1.Designer.cs",
   "PreviewInSolutionExplorer": false
 }
